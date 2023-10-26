@@ -1,0 +1,15 @@
+.mybtn{
+    color:red;
+    background-color: bisque;
+    border: 8px;
+    border-radius: 15px;
+    padding: 30px;   
+    margin:50px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* .list{
+    color: lawngreen;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+} */
